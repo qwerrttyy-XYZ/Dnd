@@ -1,0 +1,45 @@
+{
+  "id": "dreadmaps-cyberpunk-city-rooftops",
+  "title": "Dread Maps - Cyberpunk City Rooftops",
+  "description": "A rendezvous between the liminal.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Dread Maps",
+      "discord": "dreadmaps",
+      "email": "dreadmaps@protonmail.com",
+      "url": "https://linktr.ee/dreadmaps",
+      "flags": {}
+    }
+  ],
+  "url": "https://patreon.com/dreadmaps",
+  "protected": true,
+  "manifest": "https://r2.foundryvtt.com/packages-public/dreadmaps-cyberpunk-city-rooftops/module.json",
+  "packs": [
+    {
+      "name": "dreadmaps-cyberpunk-city-rooftops",
+      "type": "Adventure",
+      "label": "Cyberpunk City Rooftops",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Dread Maps",
+      "sorting": "a",
+      "folders": [
+        {
+          "name": "Buildings",
+          "sorting": "a",
+          "packs": [
+            "dreadmaps-cyberpunk-city-rooftops"
+          ]
+        }
+      ]
+    }
+  ]
+}
